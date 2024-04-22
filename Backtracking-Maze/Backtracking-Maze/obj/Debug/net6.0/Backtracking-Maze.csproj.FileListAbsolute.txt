@@ -1,0 +1,14 @@
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\bin\Debug\net6.0\Backtracking-Maze.exe
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\bin\Debug\net6.0\Backtracking-Maze.deps.json
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\bin\Debug\net6.0\Backtracking-Maze.runtimeconfig.json
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\bin\Debug\net6.0\Backtracking-Maze.dll
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\bin\Debug\net6.0\Backtracking-Maze.pdb
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.AssemblyInfoInputs.cache
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.AssemblyInfo.cs
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.csproj.CoreCompileInputs.cache
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.dll
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\refint\Backtracking-Maze.dll
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.pdb
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\Backtracking-Maze.genruntimeconfig.cache
+C:\Users\teteus\source\repos\Backtracking-Maze\Backtracking-Maze\obj\Debug\net6.0\ref\Backtracking-Maze.dll
